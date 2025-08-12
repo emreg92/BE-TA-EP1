@@ -13,8 +13,8 @@ jobs:
 
     runs-on: ubuntu-latest
     env:
-      TEST_USER_EMAIL: "testmail@mail.com"
-      TEST_USER_PASSWORD: "password"
+      TEST_USER_EMAIL: "emreg92@test.com"
+      TEST_USER_PASSWORD: "123456"
       BASE_URL: "http://localhost:5000"
 
     steps:
